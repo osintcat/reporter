@@ -9,7 +9,7 @@ cd reporter
 pip3 install -r requirements.txt
 ```
 ## Usage
-###Example of the first table.
+### Example of the first table.
 
 ```shell
 $ python3 reporter.py 1
@@ -34,7 +34,7 @@ output saved to: out.txt
 
 ```
 
-###Example of the second table.
+### Example of the second table.
 
 ```shell
 $ python3 reporter.py 2
