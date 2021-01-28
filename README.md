@@ -9,9 +9,9 @@ cd reporter
 pip3 install -r requirements.txt
 ```
 ## Usage
-Example of first table.
+###Example of the first table.
 
-```bash
+```shell
 $ python3 reporter.py 1
 Type data in
 eg name: John Doe
@@ -34,9 +34,9 @@ output saved to: out.txt
 
 ```
 
-Example of the second table.
+###Example of the second table.
 
-```bash
+```shell
 $ python3 reporter.py 2
 format:header0,header1,header2
 eg. Social Network,Usernames
