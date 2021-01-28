@@ -36,6 +36,7 @@ output saved to: out.txt
 
 Example of the second table.
 
+```bash
 $ python3 reporter.py 2
 format:header0,header1,header2
 eg. Social Network,Usernames
