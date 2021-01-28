@@ -55,3 +55,10 @@ would you like to save the output to a file?(y/n): y
 filename: out.txt
 output saved to: out.txt
 ```
+
+## Updating
+To update simply run git pull.
+
+```bash
+git pull
+```
