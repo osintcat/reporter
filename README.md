@@ -62,3 +62,8 @@ To update simply run git pull.
 ```bash
 git pull
 ```
+## Credits
+
+Coded by [osintcat](https://github.com/osintcat)
+
+Instagram: [osintcat](https://instagram.com/osintcat)
