@@ -1,3 +1,6 @@
+
+<p><img src="https://img.shields.io/badge/language-python3-blue"></p>
+
 # Reporter
 Simple script to organize information.
 ## Installation
