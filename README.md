@@ -66,4 +66,4 @@ git pull
 
 Coded by [osintcat](https://github.com/osintcat)
 
-Instagram: [osintcat](https://instagram.com/osintcat)
+[instagram](https://instagram.com/osintcat)
